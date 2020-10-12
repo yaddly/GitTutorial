@@ -1,1 +1,2 @@
-Hello, welcome to git tutorial
+Hello, welcome to git tutorial. The next video will teach me git add, commit and push commands.
+
