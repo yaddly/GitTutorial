@@ -1,3 +1,4 @@
 Hello, welcome to git tutorial. The next video will teach me git add, commit and push commands.
 Test for git branch merge example
+Changes made in main branch
 
